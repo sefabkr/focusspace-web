@@ -1,0 +1,13 @@
+# FocusSpace
+
+> FocusSpace is a pomodoro timer for iPhone and iPad by Sefa Beker. It turns the Pomodoro Technique into a journey
+> through space: every finished 25-minute focus fills a fuel cell, and five cells take you to the next of 15 stops from
+> Earth to interstellar space, at real distances. Free download; FocusSpace Pro (US: $24.99 a year with a one-week free
+> trial, $3.99 a month, $49.99 lifetime) adds a day plan, Apple Intelligence on device, all sounds, themes and lengths.
+> No account, no ads, no tracking; data stays on the device. 12 languages. App Store: https://apps.apple.com/app/id6754571776
+
+- [Home](https://sefabkr.github.io/focusspace-web/): features, price, questions
+- [What is the Pomodoro Technique?](https://sefabkr.github.io/focusspace-web/pomodoro-technique.html)
+- [Help](https://sefabkr.github.io/focusspace-web/support.html)
+- [Privacy Policy](https://sefabkr.github.io/focusspace-web/privacy-policy.html)
+- [Türkçe](https://sefabkr.github.io/focusspace-web/tr/)
